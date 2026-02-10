@@ -1,4 +1,4 @@
-# FPGA Streaming Image Processing Pipeline for Satellite Payload
+# Image Processing Pipeline for Satellite Payload
 
 ## Overview
 This project implements a real-time FPGA-based image processing pipeline designed for satellite payload applications. The architecture follows a fully streaming design capable of processing one pixel per clock cycle with deterministic latency and low power consumption.
